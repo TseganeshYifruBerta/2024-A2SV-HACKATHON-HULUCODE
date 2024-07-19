@@ -6,11 +6,11 @@ Welcome to the HULU CODE GitHub repository! HULU CODE is an AI-powered education
 
 This repository is structured as follows:
 
-**backend/**: This directory contains the backend code of the HULU CODE platform, including the API endpoints, database models, and business logic implemented in JavaScript using Node.js and Flask.
-
-**backend/**: Here, you will find the frontend code for the HULU CODE platform, implemented using Typeacript, Next.js, and Tailwind CSS. 
-
-**models/**: This directory contains the AI models used by HULU CODE to enhance the platform's capabilities. The models are implemented using Python-based AI/ML libraries and are crucial for features like the interactive chatbot and automated grading.
+ **backend/**: This directory contains the backend code of the HULU CODE platform, including the API endpoints, database models, and business logic implemented in JavaScript using Node.js and Flask.
+ 
+ **backend/**: Here, you will find the frontend code for the HULU CODE platform, implemented using Typeacript, Next.js, and Tailwind CSS. 
+ 
+ **models/**: This directory contains the AI models used by HULU CODE to enhance the platform's capabilities. The models are implemented using Python-based AI/ML libraries and are crucial for features like the interactive chatbot and automated grading.
 
   ****Purpose****
 
